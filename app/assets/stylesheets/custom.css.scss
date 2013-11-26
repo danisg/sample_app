@@ -105,6 +105,7 @@ footer {
       margin-left: 10px;
     }
   }
+}
 
   /* miscellaneous */
 
@@ -170,5 +171,4 @@ input {
 .field_with_errors {
   @extend .control-group;
   @extend .error;
-}
 }
