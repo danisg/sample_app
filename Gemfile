@@ -16,6 +16,7 @@ group :development, :test do
   gem 'guard-spork', '1.5.0'
   gem 'childprocess', '0.3.9'
   gem 'factory_girl_rails', '4.2.1'
+  gem 'guard-rspec', require: false
 end
 
 group :test do
